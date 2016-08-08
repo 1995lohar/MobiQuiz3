@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\libs\aspose-cells-8.3.1.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="390ec2800d0eb6d8946918637fd0de274c04e13c">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\2\aspose-cells-8.3.1_9c39c8e11df330069876a2586f8dfeefb121c7df\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.0.0_b42985a7f007be0bc707a5a6908a8bd10145b332\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.0.0_b35191c0825326505ca46cdf18e3459c6fdc2461\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.0.0_5dbad0f0e5bb3d15ce42dbcaf201a0c1943d8e03\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.0.0_9237e5869e9792e95f13e66493620b7e86914cd9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.0.0_84690a9eb4656b60749d644f91e1665b9cbcbde1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_0222cad0a284fe3f5874f4c1867eb489921287d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.0.0_110ebfbfa5c066d86f5b11a9008eb3761ce4dc67\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.0.0_0448621dab0c6cf380c74c0802e29f777bda3120\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.0.0_e8ca9983eeda2bca37801f579223049189b9a3e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.0.0_97f0ae99f94d2c983c65bb13011f1e653d211303\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.0.0_8abeb444309c6664f61778dd945b562e8eab355b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.0.0_960a4e8f4a1d63f7919469d1c98ea32e3f4bf8ac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.0.0_c40f0d1f2c6c10b85f20a4d09625ef5e4f7ffebb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_76b78ce7e8b06b202ef0c790a5c1f2c4b704cac7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\libs\bcprov-jdk15-146.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="d726ceb2dcc711ef066cc639c12d856128ea1ef1">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\2\bcprov-jdk15-146_59b16574d5c49ef1e37cde68f05f26ec8da8b669\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.0.0_69e45d7fdc866e8fc8ec1861adde5a8bbc3da4ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.0.0_91238acf84536c3972faa281744d03c35e0e06af\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\libs\Parse-1.10.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4ac868f746cc1f50c3fd155110790cf80c1dd346">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\2\Parse-1.10.0_3d4adeef03b0ca914305cacdb92641409e0fc2cc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_be7dfa83cf2020a42118149b706ee8b9462d0b7f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_7c4225f1bec51f79d871943b350f54e3f7c6ab8c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.0.0_50059988a57d110da19a3124765782e1253c7c8a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_5fc37ab16c97796335d5ffc6d7c9bd811e08fad5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.0.0_047e4c2a21600c4c94a73b1eddb1199e12a98506\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.0.0_03cd2512d4ffd85439a14d3b5c4d7e3dc127ab2d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\libs\nineoldandroids-library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-library-2.4.0_5f1b2c979fde0a791e84697343ad579bd4511712\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\libs\renderscript-v8.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="19d54695d29d5ca94dda30368a7df0b33ffc17d7">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\2\renderscript-v8_1debcecc461a2f664d25d943c9cbfa2ba1236d98\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="9ea9303b549a27e25ba8bfad9cef87cc6e8511fd">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_71879c7f88e26a5e6aca89582fb597413bc831c0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="7c2f9c8ced0b6f417ea5303353881a613d79a084">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cf94ffb3d1cf4562c222b443bd612e1d59159d09\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_aa76be672989d94318365fda4091c76da9e03411\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.0.0_1edc127cc87058e87d2fe268c6a24ca88c0d4bd5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.0.0_85f911a9673eba61e843bc9986367ce4fa15de4d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.0.0_8edc934c089d7ddd44fc89f5568cb2773455c1f1\classes.dex" />
+    </item>
+
+</items>

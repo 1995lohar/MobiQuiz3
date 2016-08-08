@@ -1,0 +1,58 @@
+ ********       Thanks for buying the MobiQuiz from the CodeCanyon   ******
+
+ 1)Extract the downloaded zip file for getting the eclipse package.
+
+ 2)Now open the eclipse and import the project into it.
+
+ 3)Make sure that the libraries are in the class path.  and add the appcompat_v7 project to place path..
+
+ rightclick on project --->click on properties --->select android ---->click Add in the 'Library' section and select the appcompat_v7
+
+ 4)Open android Manifestfile.xml  and change the packagename.
+
+ 5)Copy the MobiQuiz.xlsx in the eclipse project into your system.Open it and type the PASSWORD as "exam".
+
+ 6)Change the data in the MobiQuiz.xlsx file with your questions.(You can find how to it in the last step).
+
+ 7)Upload the MobiQuiz.xlsx into the skydrive .And get the public url
+
+ HOW TO UPLOAD FILE INTO SKYDRIVE  AND GETTING THENPUBLIC URL:::
+
+   i)Login into the skydrive.
+   ii)upload your MobiQuiz.xlsx file and select it and click share.
+
+   Then you get the link copy it and paste it somewhere find the resid from that link and paste it in the MainActivity.java
+
+     Open the  MainActivity.java find and replace your resid in this line
+     String url="https://onedrive.live.com/download?resid=673A9566721CEFD7%21136";
+
+8)IF YOU CHANGE THE PASSWORD FOR THE MobiQuiz.xlsx  file. Then you need to change the password in the code also
+
+  Open MainActivity.java and find the below line and replace your password in the doublequotes
+
+ =======> loadOptions.setPassword("yourpassword");
+
+9)Changing Your Logo::
+LDPI should be 36 x 36.
+MDPI should be 48 x 48.
+HDPI should be 72 x 72.
+XHDPI should be 96 x 96.
+XXHDPI should be 144 x 144.
+Create your icon with name ic_launcher.png.(with different dimensions for hdpi,ldpi,mdpi,xhdpi,xxhdpi and place then in respective folders in res).
+
+10)Changing the ReachUs page
+
+    i)Changing the contact number and Changing the  email address
+
+     Goto ContactFragment.java change the text in  double quotes in the below two lines with your data
+
+       ====> email.setText("youremail.com");
+       ====>	telephone.setText("040 8888888888888/your web url");
+
+11)CHANGING THE DATA IN THE MobiQuiz.xlsx file.
+
+12)Adding the Images in Excel Sheet (Add your image at end of the question or options)
+
+"img =imagename"
+(OR)
+"img=imagename"

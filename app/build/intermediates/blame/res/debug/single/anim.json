@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enter_from_right.xml",
+        "source": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\src\\main\\res\\anim\\enter_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enter_from_left.xml",
+        "source": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\src\\main\\res\\anim\\enter_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exit_to_left.xml",
+        "source": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\src\\main\\res\\anim\\exit_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exit_to_right.xml",
+        "source": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\src\\main\\res\\anim\\exit_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

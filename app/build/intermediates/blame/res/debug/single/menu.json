@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\all_quizes.xml",
+        "source": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\src\\main\\res\\menu\\all_quizes.xml"
+    },
+    {
+        "merged": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\show_sub_transaction.xml",
+        "source": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\src\\main\\res\\menu\\show_sub_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\show_all_quizes.xml",
+        "source": "C:\\Users\\M.Z.E\\AndroidProjects\\MobiQuiz3\\app\\src\\main\\res\\menu\\show_all_quizes.xml"
+    }
+]

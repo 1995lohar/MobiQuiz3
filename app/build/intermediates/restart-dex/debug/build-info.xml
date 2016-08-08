@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="9394782822831"
+    token="5379189214157103356" >
+
+    <task
+        name="javac"
+        duration="25647" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2878" />
+    <task
+        name="verifier"
+        duration="961" />
+
+    <artifact
+        location="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="9394782822831" >
+        <artifact
+            location="C:\Users\M.Z.E\AndroidProjects\MobiQuiz3\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
